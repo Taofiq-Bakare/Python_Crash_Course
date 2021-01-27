@@ -1,0 +1,4 @@
+Bakare
+Ade
+Tao
+Python -U "E:\Document\Codes\Python\Python_Crash_Course\Ch10_Files_And_Exceptions\Try_Exceptions.Py"

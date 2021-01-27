@@ -1,0 +1,5 @@
+In Python you can work with objects easily
+In Python you work with the powerful in build library 
+In Python you can import modules easily
+In Python you can work with text files easily
+In Python class attributes are add with self.
