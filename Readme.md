@@ -3,7 +3,7 @@
 
 ## Chp 1
 
-I am already initiated to most of concepts discuessed in this chapter.
+I am already initiated to most of concepts discussed in this chapter.
 
 ## Ch2
 
